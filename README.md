@@ -83,7 +83,7 @@ A curated list of awesome privilege escalation
 
 ### TTY Pushback / TIOCSTI injection
  - [The oldest privesc: injecting careless administrators' terminals using TTY pushback](https://www.errno.fr/TTYPushback.html): By Guillaume Quéré
- - [TIOCSTI injection](https://news.baycode.eu/0x05-tiocsti-injection/): Abusing TIOCSTI to manipulate process file descriptors and execute arbitrary commands. By Krystian Bajno
+ - [TIOCSTI injection](https://insights.baysec.eu/tiocsti-injection/): Abusing TIOCSTI to manipulate process file descriptors and execute arbitrary commands. By Krystian Bajno
  - [TIOCSTI is a kernel problem.](http://jdebp.info/FGA/TIOCSTI-is-a-kernel-problem.html): By Jonathan de Boyne Pollard.
  - [TTY Input Pushback Privilege Escalation](https://www.halfdog.net/Security/2012/TtyPushbackPrivilegeEscalation/): When user working as root switches to another user with su and happens to execute the pushback program as that user, the tty input data pushed back is executed in the shell and context of user root.
 
